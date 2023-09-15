@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am MS Data science student with the broad reseach interests include data science, computer vision, graph models, single cell omics and deep learning.
+I am a data scientist and bioinformatician with expertise in image and omics data analysis. I have developed the method for single cell (scRNA-seq) clssification and working on the integration of omics data.
 <!--
 
 -->
